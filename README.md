@@ -6,4 +6,4 @@ The Star Public License (STAR) is an addendum to the standard public [MIT licens
 
 ## License
 
-[The Star Public License](File:LICENSE.md)
+[The Star Public License](LICENSE.md)
